@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About me 
 
-You can use the [editor on GitHub](https://github.com/VincentPeng-Web/VincentPeng-Web.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a senior undergraduate at the University of Colorado Boulder majoring in physics and a minor in statistics and business. 
 
 ### Markdown
 
