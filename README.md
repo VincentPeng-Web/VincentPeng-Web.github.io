@@ -1,10 +1,16 @@
 ## About me 
 
-I am currently a senior undergraduate at the University of Colorado Boulder majoring in physics and a minor in statistics and business. 
+I am currently a senior undergraduate at the University of Colorado Boulder studying physics and statistics. I particulary enjoy coding for data analysis and machine learning topics. During my free time I enjoy playing chess and the guitar. On the bottom is a list of my projects I've done over the last few years.  
 
-### Markdown
+## Projects 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Solar System Simular Project 
+
+This project was about modeling the solar system and asterioids in python to analyze asteroid-earth collision probablities within a 10 year time frame. Another part of the project was to create a function for the projection of Halley's Comet using the equtions of motion. I added test functions for these projections to confirm the physics worked out. 
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
