@@ -10,7 +10,9 @@ This project was about modeling the solar system and asterioids in python to ana
 
 ![Image](https://user-images.githubusercontent.com/61669317/75948053-9e5cb000-5e5f-11ea-8938-21b44590ffb3.png)
 
-###  
+### Linear Regression Analysis 
+
+The Linear Regression Analysis is a project I worked on in my machine learning course, where I compared the different levels of complexity for each model. Another part of the project was to look the bias variance trade off for the model, and to show that as the complexity of the model increase the more bias the model gets. 
 
 
 
