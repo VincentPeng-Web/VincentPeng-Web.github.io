@@ -6,8 +6,11 @@ I am currently a senior undergraduate at the University of Colorado Boulder stud
 
 ### Solar System Simular Project 
 
-This project was about modeling the solar system and asterioids in python to analyze asteroid-earth collision probablities within a 10 year time frame. Another part of the project was to create a function for the projection of Halley's Comet using the equtions of motion. I added test functions for these projections to confirm the physics worked out. 
+This project was about modeling the solar system and asterioids in python to analyze asteroid-earth collision probablities within a 10 year time frame. Another part of the project was to create a function for the projection of Halley's Comet using the equtions of motion. I added test functions for these projections to confirm the physics worked out, and on the legend HC(O) stands for the orbit and HC(T) stands for what the trajectory function did. 
+
 ![Image](https://user-images.githubusercontent.com/61669317/75948053-9e5cb000-5e5f-11ea-8938-21b44590ffb3.png)
+
+###  
 
 
 
