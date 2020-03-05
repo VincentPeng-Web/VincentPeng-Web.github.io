@@ -12,7 +12,15 @@ This project was about modeling the solar system and asterioids in python to ana
 
 ### Linear Regression Analysis 
 
-The Linear Regression Analysis is a project I worked on in my machine learning course, where I compared the different levels of complexity for each model. Another part of the project was to look the bias variance trade off for the model, and to show that as the complexity of the model increase the more bias the model gets. 
+The Linear Regression Analysis is a project I worked on in my machine learning course, where I compared the different levels of complexity for each model. Another part of the project was to look the bias variance trade off for the model, and a good way to show this theory is to compare a group of 100 samples from each level of complexity which is shown on the second plot using the Colin Mallows statistic. 
+
+![Image](https://user-images.githubusercontent.com/61669317/75993164-4f8e3500-5eb6-11ea-9110-0d0b873d4c2a.png)
+
+![Image](https://user-images.githubusercontent.com/61669317/75993181-53ba5280-5eb6-11ea-8de0-98f6ee922e19.png)
+
+### LDA, QDA, and Baye's Classifier Project 
+
+
 
 
 
